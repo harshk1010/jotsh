@@ -1,16 +1,150 @@
-# React + Vite
+# Employee Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a complete **4‑screen React application** built using **Vite**, featuring:
 
-Currently, two official plugins are available:
+* Login Page
+* Employee List Page (Fetched via API)
+* Employee Details Page with Webcam Capture
+* Photo Result Page
+* Bar Graph Page (Top 10 Salaries)
+* Map Page (Employee Locations)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **React + Vite**
+* **Recharts** (Bar Graph)
+* **Leaflet + React‑Leaflet** (Map)
+* **Axios** (API Calls)
+* **Webcam.js** (Camera Capture)
+* Modern UI with clean design
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Application Screenshots
+
+### 🔐 Login Page
+
+![](/mnt/data/8c08289d-7b4b-4881-b54a-d006b218b930.png)
+
+---
+
+### 📝 Employee List Page
+
+![](/mnt/data/becb91f0-4050-4447-8a73-aa56f71098fd.png)
+
+---
+
+### 📄 Employee Details Page
+
+![](/mnt/data/642315c7-34d5-43d8-999d-d768978d40cf.png)
+
+---
+
+### 📷 Webcam Photo Result Page
+
+![](/mnt/data/1705dfc5-e6a2-42b3-a0c1-2b8e2714998c.png)
+
+---
+
+### 📊 Salary Bar Graph Page
+
+![](/mnt/data/62a246bb-480e-43f9-bcea-32c2f4c4d871.png)
+
+---
+
+### 🗺️ Employee Cities Map Page
+
+![](/mnt/data/1b9e47a0-ea19-4b57-af6d-82a996c2a944.png)
+
+---
+
+## 📦 Installation
+
+```bash
+yarn install
+yarn dev
+```
+
+OR
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 🔑 Login Credentials
+
+For frontend login:
+
+```
+username: testuser
+password: Test123
+```
+
+For backend API auth:
+
+```
+username: test
+password: 123456
+```
+
+---
+
+## 📡 API Used
+
+```
+POST https://backend.jotish.in/backend_dev/gettabledata.php
+```
+
+Payload:
+
+```json
+{
+  "username": "test",
+  "password": "123456"
+}
+```
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+ ├── pages/
+ │    ├── LoginPage.jsx
+ │    ├── ListPage.jsx
+ │    ├── DetailsPage.jsx
+ │    ├── PhotoResultPage.jsx
+ │    ├── BarGraphPage.jsx
+ │    └── MapPage.jsx
+ ├── api.js
+ └── main.jsx
+```
+
+---
+
+## ⭐ Features
+
+* Clean UI with modern card layouts
+* Fully centered responsive pages
+* API‑driven employee list
+* Photo capture using webcam
+* Graph + Map visualization
+
+---
+
+## 🙌 Author
+
+Harsh Kabra
+
+---
+
+If you want, I can also add:
+✅ GIF demo
+✅ Project badges
+✅ Deployment guide
