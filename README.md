@@ -32,7 +32,7 @@ This project is a complete **4‑screen React application** built using **Vite**
 
 ###  Employee List Page
 
-![](/mnt/data/becb91f0-4050-4447-8a73-aa56f71098fd.png)
+![](public/list.png)
 
 ---
 
