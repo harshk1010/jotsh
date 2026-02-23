@@ -26,7 +26,7 @@ This project is a complete **4‑screen React application** built using **Vite**
 
 ###  Login Page
 
-![Login Page](public/login.png))
+![](public/login.png))
 
 ---
 
@@ -38,25 +38,25 @@ This project is a complete **4‑screen React application** built using **Vite**
 
 ###  Employee Details Page
 
-![](/mnt/data/642315c7-34d5-43d8-999d-d768978d40cf.png)
+![](public/detail.png)
 
 ---
 
 ###  Webcam Photo Result Page
 
-![](/mnt/data/1705dfc5-e6a2-42b3-a0c1-2b8e2714998c.png)
+![](public/camera.png)
 
 ---
 
 ###  Salary Bar Graph Page
 
-![](/mnt/data/62a246bb-480e-43f9-bcea-32c2f4c4d871.png)
+![](public/graph.png)
 
 ---
 
 ###  Employee Cities Map Page
 
-![](/mnt/data/1b9e47a0-ea19-4b57-af6d-82a996c2a944.png)
+![](public/map.png)
 
 ---
 
