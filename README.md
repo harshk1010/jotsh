@@ -88,17 +88,11 @@ password: Test123
 For backend API auth:
 
 ```
-username: test
-password: 123456
+username: testuser
+password: Test123
 ```
 
 ---
-
-##  API Used
-
-```
-POST https://backend.jotish.in/backend_dev/gettabledata.php
-```
 
 Payload:
 
