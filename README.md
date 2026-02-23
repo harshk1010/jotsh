@@ -26,7 +26,7 @@ This project is a complete **4‑screen React application** built using **Vite**
 
 ###  Login Page
 
-![](/mnt/data/8c08289d-7b4b-4881-b54a-d006b218b930.png)
+![Login Page](public/login.png))
 
 ---
 
