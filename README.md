@@ -11,7 +11,7 @@ This project is a complete **4‑screen React application** built using **Vite**
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 * **React + Vite**
 * **Recharts** (Bar Graph)
@@ -22,45 +22,45 @@ This project is a complete **4‑screen React application** built using **Vite**
 
 ---
 
-## 📸 Application Screenshots
+##  Application Screenshots
 
-### 🔐 Login Page
+###  Login Page
 
 ![](/mnt/data/8c08289d-7b4b-4881-b54a-d006b218b930.png)
 
 ---
 
-### 📝 Employee List Page
+###  Employee List Page
 
 ![](/mnt/data/becb91f0-4050-4447-8a73-aa56f71098fd.png)
 
 ---
 
-### 📄 Employee Details Page
+###  Employee Details Page
 
 ![](/mnt/data/642315c7-34d5-43d8-999d-d768978d40cf.png)
 
 ---
 
-### 📷 Webcam Photo Result Page
+###  Webcam Photo Result Page
 
 ![](/mnt/data/1705dfc5-e6a2-42b3-a0c1-2b8e2714998c.png)
 
 ---
 
-### 📊 Salary Bar Graph Page
+###  Salary Bar Graph Page
 
 ![](/mnt/data/62a246bb-480e-43f9-bcea-32c2f4c4d871.png)
 
 ---
 
-### 🗺️ Employee Cities Map Page
+###  Employee Cities Map Page
 
 ![](/mnt/data/1b9e47a0-ea19-4b57-af6d-82a996c2a944.png)
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 yarn install
@@ -76,7 +76,7 @@ npm run dev
 
 ---
 
-## 🔑 Login Credentials
+##  Login Credentials
 
 For frontend login:
 
@@ -94,7 +94,7 @@ password: 123456
 
 ---
 
-## 📡 API Used
+##  API Used
 
 ```
 POST https://backend.jotish.in/backend_dev/gettabledata.php
@@ -111,7 +111,7 @@ Payload:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -128,7 +128,7 @@ src/
 
 ---
 
-## ⭐ Features
+##  Features
 
 * Clean UI with modern card layouts
 * Fully centered responsive pages
@@ -141,10 +141,3 @@ src/
 ## 🙌 Author
 
 Harsh Kabra
-
----
-
-If you want, I can also add:
-✅ GIF demo
-✅ Project badges
-✅ Deployment guide
